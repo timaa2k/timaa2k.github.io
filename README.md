@@ -1,1 +1,1 @@
-/public folder to power timaa2k.github.io
+Static site files powering timaa2k.github.io
